@@ -1,0 +1,24 @@
+{
+    "name": "save-eyes-light",
+    "displayName": "Save-Eyes-Light",
+    "publisher": "alexlab",
+    "repository": "https://github.com/brainlulz/save-eyes-light",
+    "description": "A light theme to save your eyes 👀",
+    "icon": "images/logo.png",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Save-Eyes-Light",
+                "uiTheme": "vs",
+                "path": "./themes/Save-Eyes-Light-color-theme.json"
+            }
+        ]
+    }
+}
