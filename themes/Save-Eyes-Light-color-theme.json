@@ -23,7 +23,10 @@
     "button.background": "#fffcf7",
     "editorLineNumber.activeForeground": "#F92672",
     "button.foreground": "#1a2309",
-    "button.hoverBackground": "#F92672"
+    "button.hoverBackground": "#F92672",
+    "statusBar.debuggingBackground": "#F92672",
+    "statusBar.debuggingForeground": "#fffcf7",
+
   },
   "tokenColors": [
     {
